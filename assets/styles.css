@@ -1,11 +1,5 @@
 
 
-
-/* carousel styling */
-/* .carousel-item .cara-img{
-    height: 700px;
-} */
-
 /* short desc styling */
 .short-desc-div{
     margin-top: 50px;
@@ -101,4 +95,9 @@
 
 .ico-mar{
         margin: 0px 4px;
+}
+
+.back-btn{
+    color: white;
+    text-decoration:none;
 }
