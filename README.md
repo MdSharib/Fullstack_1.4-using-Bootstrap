@@ -9,6 +9,6 @@ https://mdsharib.github.io/Fullstack_1.4-using-Bootstrap/
 
 
 or 
-How to run in local setup:-
+how to run in local setup:-
 1) Download .zip file.
 2) extract and run the index.html.
